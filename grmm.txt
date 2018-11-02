@@ -1,0 +1,9 @@
+S -> NP VP 
+NP -> ART N
+VP -> V PP
+PP -> P N 
+N -> man 
+N -> Rama 
+V -> helped 
+ART -> the 
+P -> by
